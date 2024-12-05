@@ -14,7 +14,7 @@
 |Crooner’s Serenade| (performed by) Michael Buble - Arr: Justin Williams|
 |Viva La Vida| Coldplay - Arr: Luis Cardoso|
 |Detective Conan| Katsuo Ohno - Arr: Seiji Miyagawa|
-|Christmas Swingalong| medley - Arr: Derek Ashmore|
+|Christmas Swingalong [LYRICS](#christmas-swingalong)| medley - Arr: Derek Ashmore|
 
 Refreshments will be available during a short interval.
 
@@ -23,12 +23,12 @@ Refreshments will be available during a short interval.
 |Do You Hear What I Hear (from Glee)| Noel Regney and Gloria Shayne - Arr: Jay Bocook|
 |We Need A Little Christmas| Jerry Herman - Arr: Ted Ricketts|
 |An Irving Berlin Christmas| Irving Berlin - Arr: Warren Barker|
-|CAROL Oh Little Town of Bethlehem| English Traditional Melody|
+|CAROL Oh Little Town of Bethlehem [LYRICS](#o-little-town-of-bethlehem)| English Traditional Melody|
 |Yuletide Rag| Richard Phillips|
 |Midnight Sleighride| E. Sauter and E Finegan - Arr: Tom Wallace|
 |(Prokofiev’s Lieutenant| Kije Suite)|
 |Merry Christmas Everybody| Slade - Arr: Frank Bernaerts|
-|CAROL Oh Come, All Ye Faithful| John Francis Wade |
+|CAROL Oh Come, All Ye Faithful [LYRICS](#o-come-all-ye-faithful)| John Francis Wade |
 
 ## Lyrics for the optional sing-along :santa:
 
