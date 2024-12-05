@@ -84,5 +84,71 @@ Until then we'll have to muddle through somehow.
 So have yourself a merry little Christmas now.
 ```
 
+### O Little Town of Bethlehem
+```
+O little town of Bethlehem
+How still we see thee lie
+Above thy deep and dreamless sleep
+The silent stars go by
+Yet in thy dark streets shineth
+The everlasting Light
+The hopes and fears of all the years
+Are met in thee tonight.
 
+O morning stars together
+Proclaim the holy birth
+And praises sing to God the King
+And Peace to men on earth
+For Christ is born of Mary
+And gathered all above
+While mortals sleep, the angels keep
+Their watch of wondering love.
 
+How silently, how silently
+The wondrous gift is given!
+So God imparts to human hearts
+The blessings of His heaven.
+No ear may hear His coming,
+But in this world of sin,
+Where meek souls will receive him still,
+The dear Christ enters in.
+
+O holy Child of Bethlehem
+Descend to us, we pray
+Cast out our sin and enter in
+Be born to us today
+We hear the Christmas angels
+The great glad tidings tell
+O come to us, abide with us
+Our Lord Emmanuel.
+```
+
+### O Come, All Ye Faithful
+```
+O come, all ye faithful,
+Joyful and triumphant,
+O come ye, O come ye to Bethlehem;
+Come and behold Him,
+Born the King of Angels:
+O come, let us adore Him,
+O come, let us adore Him,
+O come, let us adore Him, Christ the Lord.
+
+God of God,
+Light of Light,
+Lo! He abhors not the Virgin's womb;
+Very God,
+Begotten not created:
+O come, let us adore Him,
+O come, let us adore Him,
+O come, let us adore Him, Christ the Lord.
+
+Sing, choirs of angels,
+Sing in exultation,
+Sing, all ye citizens of heaven above,
+Glory to God
+In the highest:
+O come, let us adore Him,
+O come, let us adore Him,
+O come, let us adore Him, Christ the Lord.
+```
