@@ -3,9 +3,9 @@
 
 :earth_africa: St Paul's, Boundary Road, Nottingham
 
-## First Half
+## Programme
 
-| | |
+| First Half | |
 |---|---|
 |Overture to a Pantomime| Victor Hely-Hutchinson - Arr: Paul Noble|
 |Thriller| Michael Jackson (music Rod Temperton) - Arr: Jay Bocook|
@@ -16,9 +16,7 @@
 |Detective Conan| Katsuo Ohno - Arr: Seiji Miyagawa|
 |Christmas Swingalong| medley - Arr: Derek Ashmore|
 
-## Second Half
-
-| | |
+| Second Half | |
 |---|---|
 |Do You Hear What I Hear (from Glee)| Noel Regney and Gloria Shayne - Arr: Jay Bocook|
 |We Need A Little Christmas| Jerry Herman - Arr: Ted Ricketts|
