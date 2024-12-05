@@ -1,2 +1,4 @@
 title: Nottingham Concert Band
 description: Online programmes for NCB performances
+plugins:
+  - jemoji
