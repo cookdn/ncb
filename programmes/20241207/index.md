@@ -152,3 +152,8 @@ O come, let us adore Him,
 O come, let us adore Him,
 O come, let us adore Him, Christ the Lord.
 ```
+
+## Sharing
+Please share this programme with others by allowing them to scan the QR code with their phone camera.
+
+![QR Code](qrcode_20241207.png)
