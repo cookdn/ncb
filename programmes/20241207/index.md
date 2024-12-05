@@ -1,6 +1,7 @@
 # Swing into Advent
-Saturday 7th December 2024
-St Paul's, Boundary Road, Nottingham
+:date: Saturday 7th December 2024
+
+:earth_africa: St Paul's, Boundary Road, Nottingham
 
 ## First Half
 
