@@ -4,8 +4,8 @@ St Paul's, Boundary Road, Nottingham
 
 ## First Half
 
-| x             | y              |
-|--------------|---------------|
+| | |
+|---|---|
 |Overture to a Pantomime| Victor Hely-Hutchinson - Arr: Paul Noble|
 |Thriller| Michael Jackson (music Rod Temperton) - Arr: Jay Bocook|
 |Out of Africa| John Barry - Arr: Johan de Meij|
@@ -17,8 +17,8 @@ St Paul's, Boundary Road, Nottingham
 
 ## Second Half
 
-| x              | y              |
-|--------------|---------------|
+| | |
+|---|---|
 |Do You Hear What I Hear (from Glee)| Noel Regney and Gloria Shayne - Arr: Jay Bocook|
 |We Need A Little Christmas| Jerry Herman - Arr: Ted Ricketts|
 |An Irving Berlin Christmas| Irving Berlin - Arr: Warren Barker|
