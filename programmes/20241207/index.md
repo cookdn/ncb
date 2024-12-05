@@ -3,7 +3,7 @@ Saturday 7th December 2024
 St Paul's, Boundary Road, Nottingham
 
 ## First Half
-|              |               |
+| x             | y              |
 |--------------|---------------|
 |Overture to a Pantomime| Victor Hely-Hutchinson - Arr: Paul Noble|
 |Thriller| Michael Jackson (music Rod Temperton) - Arr: Jay Bocook|
@@ -11,11 +11,11 @@ St Paul's, Boundary Road, Nottingham
 |Here, There And Everywhere| Lennon and McCartney - Arr: Marc Alexander|
 |Crooner’s Serenade| (performed by) Michael Buble - Arr: Justin Williams|
 |Viva La Vida| Coldplay - Arr: Luis Cardoso|
-|Detective Conan| Katsuo Ono - Arr: Seiji Miyagawa|
+|Detective Conan| Katsuo Ohno - Arr: Seiji Miyagawa|
 |Christmas Swingalong| medley - Arr: Derek Ashmore|
 
 ## Second Half
-|              |               |
+| x              | y              |
 |--------------|---------------|
 |Do You Hear What I Hear (from Glee)| Noel Regney and Gloria Shayne - Arr: Jay Bocook|
 |We Need A Little Christmas| Jerry Herman - Arr: Ted Ricketts|
