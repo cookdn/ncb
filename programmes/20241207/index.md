@@ -35,6 +35,7 @@ Refreshments will be available during a short interval.
 ## Lyrics for the optional sing-along
 
 ### Christmas Swingalong
+Arr: Derek Ashmore
 
 #### Walkin' in a Winter Wonderland
 ```
@@ -101,6 +102,7 @@ So have yourself a merry little
 ```
 
 ### O Little Town of Bethlehem
+English Traditional Melody
 ```
 O little town of Bethlehem
 How still we see thee lie
@@ -140,6 +142,7 @@ Our Lord Emmanuel.
 ```
 
 ### O Come, All Ye Faithful
+John Francis Wade
 ```
 O come, all ye faithful,
 Joyful and triumphant,
