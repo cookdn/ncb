@@ -176,3 +176,11 @@ O come, let us adore Him, Christ the Lord.
 Please share this programme with others by allowing them to scan the QR code with their phone camera.
 
 ![QR Code](qrcode_20241207.png)
+
+## About the Nottingham Concert Band
+
+Music Director: Robert Parker
+
+Registered Charity: 1129243
+
+[www.nottinghamconcertband.org](https://www.nottinghamconcertband.org/)
