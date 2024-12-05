@@ -3,6 +3,8 @@
 
 :earth_africa: St Paul's, Boundary Road, Nottingham
 
+[:link: Share this content with others](#sharing)
+
 ## Programme
 
 | First Half | |
