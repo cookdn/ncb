@@ -3,6 +3,7 @@ Saturday 7th December 2024
 St Paul's, Boundary Road, Nottingham
 
 ## First Half
+
 | x             | y              |
 |--------------|---------------|
 |Overture to a Pantomime| Victor Hely-Hutchinson - Arr: Paul Noble|
@@ -15,6 +16,7 @@ St Paul's, Boundary Road, Nottingham
 |Christmas Swingalong| medley - Arr: Derek Ashmore|
 
 ## Second Half
+
 | x              | y              |
 |--------------|---------------|
 |Do You Hear What I Hear (from Glee)| Noel Regney and Gloria Shayne - Arr: Jay Bocook|
