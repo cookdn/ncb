@@ -3,7 +3,7 @@
 
 :earth_africa: St Paul's, Boundary Road, Nottingham
 
-:link: [Share this content with others](#sharing)
+:link: [Share this with others](#sharing)
 
 ## Programme
 
@@ -27,8 +27,7 @@ Refreshments will be available during a short interval.
 |An Irving Berlin Christmas| Irving Berlin - Arr: Warren Barker|
 |CAROL Oh Little Town of Bethlehem [LYRICS](#o-little-town-of-bethlehem)| English Traditional Melody|
 |Yuletide Rag| Richard Phillips|
-|Midnight Sleighride| E. Sauter and E Finegan - Arr: Tom Wallace|
-|(Prokofiev’s Lieutenant| Kije Suite)|
+|Midnight Sleighride| E. Sauter and E Finegan - Arr: Tom Wallace (Prokofiev’s Lieutenant Kije Suite)|
 |Merry Christmas Everybody| Slade - Arr: Frank Bernaerts|
 |CAROL Oh Come, All Ye Faithful [LYRICS](#o-come-all-ye-faithful)| John Francis Wade |
 
